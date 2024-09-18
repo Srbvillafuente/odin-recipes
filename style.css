@@ -1,0 +1,75 @@
+html{
+    font-family:fantasy
+}
+/* *{
+    outline: 2px solid
+} */
+.header{
+    font-size: 44px;
+    background-color: cornsilk;
+    color:blueviolet;
+    text-align: center;
+    
+}
+.nav{
+    font-size: 33px;
+}
+body{
+    background-color: bisque;
+
+}
+.lasagna{
+    color: orangered;
+}
+p{
+    font-size: 18px;
+}
+.desc{
+    font-size: 26px;
+    color:lightseagreen; 
+}
+h2{
+    font-size: 33px;
+}
+.instru-list{
+    font-size: 24px;
+    color:darkred;
+}
+.ingre-list{
+    font-size: 22px;
+    color: rgb(224, 109, 15);
+}
+.nav.footer{
+    text-align: center;
+    
+}
+ol li{
+    padding-bottom: 3px;
+}
+.spaghetti{
+    color:firebrick;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.caption{
+    text-align: center;
+}
+.chicken{
+    color:darkolivegreen
+}
+.link{
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 36px;
+    padding: 8px;
+    border: 5px solid brown;
+    margin: 8px auto;
+    width: 500px
+}
+ul{
+    list-style-type: none;
+    
+}
